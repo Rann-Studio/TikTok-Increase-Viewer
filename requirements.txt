@@ -1,0 +1,5 @@
+opencv_python>=4.5.3.56
+chromedriver_autoinstaller>=0.2.2
+fake_useragent>=0.1.11
+Pillow>=8.4.0
+selenium>=4.0.0
